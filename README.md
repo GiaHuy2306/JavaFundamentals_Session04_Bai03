@@ -3,7 +3,7 @@
 - **Học viên:** Huy-Tuan
 - **Email:** sieuka1990@gmail.com
 - **Đường dẫn nộp bài:** `homework/session_04/ex3/README.md`
-- **URL Repository GitHub:** *(Thay thế bằng link repo của bạn sau khi push, ví dụ: https://github.com/Huy-Tuan/session04-ex3)*
+- **URL Repository GitHub:** https://github.com/GiaHuy2306/JavaFundamentals_Session04_Bai03
 
 ---
 
